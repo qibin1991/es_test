@@ -1,0 +1,23 @@
+
+b	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(™«à8¹«ê×…0
+b	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(¢ÜÉÎ8¹«ê×…0
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¹£ë8º«ê×…0
+n
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘çÎD
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡˜ßıÿÿÿÿ
+d
+java:S2095("NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÿŒÎø
+r
+java:S2095)"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(±¥±àıÿÿÿÿ8Ø¬ê×…0
+e
+java:S2095‡"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ôäœ·
+\	java:S899&"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+T
+java:S4719)"9Replace charset name argument with StandardCharsets.UTF_8(±¥±àıÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(î÷¤
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(Öüûäùÿÿÿÿ
+h
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(™«à
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ĞĞï°úÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Ï÷„ıÿÿÿÿ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(”ü‰è

@@ -1,0 +1,8 @@
+
+y
+java:S1488Ø"]Immediately return this expression instead of assigning it to the temporary variable "count".(¼­ã×ùÿÿÿÿ
+b	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ°Þj
+h	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÿŠàøÿÿÿÿ
+h	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü—ÔÕÿÿÿÿÿ
+k
+java:S1215€"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“

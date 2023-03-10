@@ -1,3 +1,7 @@
+import com.github.davidfantasy.mybatisplus.generatorui.GeneratorConfig;
+import com.github.davidfantasy.mybatisplus.generatorui.MybatisPlusToolsApplication;
+import com.github.davidfantasy.mybatisplus.generatorui.mbp.NameConverter;
+
 /**
  * @ClassName GeberatorUIServer
  * @Description TODO

@@ -1,17 +1,8 @@
 package com.report;
 
-import com.carbonstop.common.core.convert.deserializer.BaseEnumInterfaceJsonDeserializer;
-import com.carbonstop.common.core.convert.serializer.BaseEnumInterfaceJsonSerializer;
-import com.carbonstop.common.core.enums.BaseEnumInterface;
-import com.fasterxml.jackson.annotation.JsonValue;
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import com.google.common.collect.Maps;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-
-import java.util.Collections;
-import java.util.Map;
 
 @Getter
 @AllArgsConstructor
